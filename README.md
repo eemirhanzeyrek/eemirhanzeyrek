@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emirhan Zeyrek</h1>
+<h1 align="center">Hi, I'm Emirhan Zeyrek 👋</h1>
 <h3 align="center">Software Developer | iOS Developer</h3>
 
 - 🔭 I’m currently working on **mobile application development**
@@ -18,6 +18,6 @@
 
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=eemirhanzeyrek&show_icons=trues&theme=slateorange&show_icons=true&hide_border=false&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemirhanzeyrek&theme=slateorange&show_icons=true&hide_border=false&layout=compact"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=eemirhanzeyrek&show_icons=trues&theme=slateorange"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eemirhanzeyrek&show_icons=true&locale=en&theme=slateorange&layout=compact"/>
 </details>
