@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emirhan Zeyrek 👋</h1>
-<h3 align="center">Software Developer | iOS Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **mobile application development**
 - 🌱 I’m currently learning **UIKit, SwiftUI, ARKit, CoreML, CoreData, SwiftData**
