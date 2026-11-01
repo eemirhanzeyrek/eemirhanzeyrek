@@ -2,5 +2,5 @@
 
 I'm a [Software Engineer](https://www.linkedin.com/in/eemirhanzeyrek/), based in Istanbul, Turkey.
 
-[LinkedIn &rarr;](https://www.linkedin.com/in/eemirhanzeyrek/)
+[LinkedIn &rarr;](https://www.linkedin.com/in/eemirhanzeyrek/)<br>
 [Email &rarr;](mailto:contactemirhanzeyrek@gmail.com)
