@@ -1,4 +1,4 @@
-**Hi, I'm Emirhan** 👋
+**Hey, I'm Emirhan** 👋
 
 I'm a [Computer Engineer](https://www.linkedin.com/in/eemirhanzeyrek/), based in Turkey. I’m currently working on software development.
 
